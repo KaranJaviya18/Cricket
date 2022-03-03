@@ -4,9 +4,9 @@ KL Rahul          ====>Batsman
 Virat Kohli        ====>Batsman
 Shreyas Iyyer      ====>Batsman
 Rishabh Pant(wk)     ====>WK Batsman
-Ravindra Jadeja      ====>Allrounder
-Shardul Thakur       ====>Allrounder
-Yuzvendra Chahal       ====>Bowler
-Bhuvneshwar Kumar      ====>Bowler
-Jasprit Bumrah         ====>Bowler
-Kuldip Yadav         ====>Bowler
+Ravindra Jadeja      ====>Allrounder(spin)
+Shardul Thakur       ====>Allrounder(fast)
+Yuzvendra Chahal       ====>Bowler(spin)
+Bhuvneshwar Kumar      ====>Bowler(fast)
+Jasprit Bumrah         ====>Bowler(fast)
+Kuldip Yadav         ====>Bowler(spin)
