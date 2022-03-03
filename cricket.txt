@@ -1,12 +1,12 @@
 best india playing 11 for t20 worldcup
-Rohit Sharma(c)
-KL Rahul
-Virat Kohli
-Shreyas Iyyer
-Rishabh Pant(wk)
-Ravindra Jadeja
-Shardul Thakur
-Yuzvendra Chahal
-Bhuvneshwar Kumar
-Jasprit Bumrah
-Kuldip Yadav
+Rohit Sharma(c)   ====>Batsman
+KL Rahul          ====>Batsman
+Virat Kohli        ====>Batsman
+Shreyas Iyyer      ====>Batsman
+Rishabh Pant(wk)     ====>WK Batsman
+Ravindra Jadeja      ====>Allrounder
+Shardul Thakur       ====>Allrounder
+Yuzvendra Chahal       ====>Bowler
+Bhuvneshwar Kumar      ====>Bowler
+Jasprit Bumrah         ====>Bowler
+Kuldip Yadav         ====>Bowler
